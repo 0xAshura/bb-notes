@@ -1,0 +1,11 @@
+PRP occurs when there is no perfect regex coniguration in backend code.
+
+eg.
+
+if (origin.endsWith("jsheell.net")) {
+// Allow request
+}
+
+then payload be like 
+
+http://3gk710b5g3sjkag3uvsesk7riio@cx.castify.com?.jsheell.net
