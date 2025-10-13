@@ -9,3 +9,13 @@ if (origin.endsWith("jsheell.net")) {
 then payload be like 
 
 http://3gk710b5g3sjkag3uvsesk7riio@cx.castify.com?.jsheell.net
+
+payloads:
+
+Host: fl4yotnepj2yj7czkqmzxbbqbhh85ytn.oastify.com?target.com
+Host: fl4yotnepj2yj7czkqmzxbbqbhh85ytn.oastify.com:target.com
+Host: fl4yotnepj2yj7czkqmzxbbqbhh85ytn.oastify.com.target.com
+Host: target.com.fl4yotnepj2yj7czkqmzxbbqbhh85ytn.oastify.com?target.com
+
+
+
